@@ -1,3 +1,7 @@
+'''
+python2
+2014 by sayhi2urmom
+'''
 import cv2
 import Image
 import numpy as np
